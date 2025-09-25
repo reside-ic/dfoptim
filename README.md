@@ -48,3 +48,16 @@ Then open `example/index.html` for a simple example.
 MIT © Imperial College of Science, Technology and Medicine
 
 Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+## Publishing to NPM
+
+Automatically publish to [NPM](https://www.npmjs.com). Assuming a version number 1.0.0:
+
+* Create a release on github
+* Choose a tag -> Create a new tag: v1.0.0
+* Use this version as the description
+* Optionally describe the release
+* Click "Publish release"
+* This triggers the release workflow and the package will be available on NPM in a few minutes
+
+Note: This package's name on NPM is `@reside-ic/dfoptim` not `dfoptim` after migration to `reside-ic` org.
