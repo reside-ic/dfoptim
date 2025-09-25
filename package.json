@@ -1,6 +1,6 @@
 {
-    "name": "dfoptim",
-    "version": "0.0.6",
+    "name": "@reside-ic/dfoptim",
+    "version": "1.0.0",
     "description": "Derivative-Free Optimisation",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
