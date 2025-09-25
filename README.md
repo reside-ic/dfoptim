@@ -53,7 +53,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 Automatically publish to [NPM](https://www.npmjs.com). Assuming a version number 1.0.0:
 
-* Create a release on github
+* Create a [release on github](https://github.com/reside-ic/dfoptim/releases/new)
 * Choose a tag -> Create a new tag: v1.0.0
 * Use this version as the description
 * Optionally describe the release
