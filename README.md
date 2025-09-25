@@ -60,4 +60,4 @@ Automatically publish to [NPM](https://www.npmjs.com). Assuming a version number
 * Click "Publish release"
 * This triggers the release workflow and the package will be available on NPM in a few minutes
 
-Note: This package's name on NPM is `@reside-ic/dfoptim` not `dfoptim` after migration to `reside-ic` org.
+Note: This package's name on NPM is `@reside-ic/dfoptim` not `dfoptim`.
